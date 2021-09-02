@@ -10,6 +10,7 @@
 # sys.setrecursionlimit(n)
 
 from colending_python_client.model.get_payment_response import GetPaymentResponse
+from colending_python_client.model.get_payment_response_applicants import GetPaymentResponseApplicants
 from colending_python_client.model.inline_response400 import InlineResponse400
 from colending_python_client.model.inline_response400_error import InlineResponse400Error
 from colending_python_client.model.loan import Loan

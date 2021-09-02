@@ -255,6 +255,7 @@ Class | Method | HTTP request | Description
 ## Documentation For Models
 
  - [GetPaymentResponse](docs/GetPaymentResponse.md)
+ - [GetPaymentResponseApplicants](docs/GetPaymentResponseApplicants.md)
  - [InlineResponse400](docs/InlineResponse400.md)
  - [InlineResponse400Error](docs/InlineResponse400Error.md)
  - [Loan](docs/Loan.md)
